@@ -1,1 +1,1 @@
-# step00_helloworld
+# settingup my envirnment fo typescript
