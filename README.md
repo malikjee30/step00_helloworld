@@ -1,1 +1,1 @@
-# settingup my envirnment fo typescript
+# settingup my envirnment for typescript
